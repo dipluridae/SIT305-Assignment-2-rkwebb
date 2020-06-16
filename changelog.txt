@@ -5,3 +5,11 @@ Late starting as is now week 9 but have been busy as doctor in a public hospital
 Uploaded start of word document containing Project Proposal
 16-MAY-2020
 Uploaded start of project/Main "LP Record Library
+20_May-2020
+Finalised initial logon screen
+06-June-2020
+Finalised Record data entry code
+11-June-2020
+Having difficulty passing back data from search screen
+14-June-2020
+Finalised Data for owner of record
