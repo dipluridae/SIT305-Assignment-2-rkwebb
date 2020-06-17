@@ -5,11 +5,21 @@ Late starting as is now week 9 but have been busy as doctor in a public hospital
 Uploaded start of word document containing Project Proposal
 16-MAY-2020
 Uploaded start of project/Main "LP Record Library
-20_May-2020
+18-May-2020
 Finalised initial logon screen
-06-June-2020
+20_May-2020
+Finalised Owner data entry code
+23-May-2020-2020
 Finalised Record data entry code
+26-May-2020
+Finalised search routine for album - only able to show Toast message that album was found
 11-June-2020
 Having difficulty passing back data from search screen
 14-June-2020
-Finalised Data for owner of record
+Finalised search routine for owner of record
+16-June-2020
+Spent hours trying to retrieve row line data for album and owner
+Tried using record object
+also tried to set up list view adapter and list view
+17-June-2020
+Uploaded final version - have retained some classes as not confident if I remove them at this late stage that I will introduce errors as app is working well at present
