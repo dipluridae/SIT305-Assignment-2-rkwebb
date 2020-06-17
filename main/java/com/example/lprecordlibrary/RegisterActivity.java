@@ -21,6 +21,7 @@ public class RegisterActivity extends AppCompatActivity {
         Button register2Button = findViewById(R.id.register2Button);
         db = new DatabaseHelper(this);
 
+        // uses insert1 method from DatabaseHelper
         register2Button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -29,7 +30,7 @@ public class RegisterActivity extends AppCompatActivity {
                 String pwd2 = password2EditText.getText().toString().trim();
                 if (pwd1.equals(pwd2))
                 {
-                    long result = db.insert(user, pwd1);
+                    long result = db.insert1(user, pwd1);
                     if (result > 0)
                     {
                         Toast.makeText(RegisterActivity.this, "Registered Successfully", Toast.LENGTH_LONG).show();
